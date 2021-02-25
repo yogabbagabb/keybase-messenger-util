@@ -1,5 +1,22 @@
 import json
 import os
+import time
+import random
+
+
+def send_message_from_file(users, file_name, sleep=0, random_time=0):
+    """
+    :param random_time:
+    :param sleep: A time to sleep for
+    :param users: A list of users to send a message to
+    :param file_name: A file to read the message from. It must be delimited by quotes (e.g. "Hi, I am bob")
+    :return: None
+    """
+    file = open(file_name, "r")
+    msg = file.read()
+    for sus in users:
+        time.sleep(sleep + random.random() * random_time)
+        os.system('/usr/local/bin/keybase chat send ' + sus + ' ' + msg)
 
 
 def send_message(users, message):
@@ -37,6 +54,15 @@ def get_usernames(team_name, file_name, file_dir):
     print(the_str)
     os.system('keybase team list-members -j ' + team_name + ' > ' + file_dir + '/' + file_name)
     # read file
+    return get_user_names_from_file(file_name)
+
+
+def get_user_names_from_file(file_name):
+    """
+    Get the usernames of all people in a team
+    :param file_name: A file obtained from get_usernames
+    :return: An array of usernames
+    """
     with open(file_name, 'r') as myfile:
         data = myfile.read()
     # parse file
@@ -47,3 +73,9 @@ def get_usernames(team_name, file_name, file_dir):
     print(array_of_priv)
     usernames = [user_dict['username'] for priv_group in array_of_priv for user_dict in priv_group]
     return usernames
+
+
+def change_to_directory_of_current_file(file_path=__file__):
+    abspath = os.path.abspath(file_path)
+    dname = os.path.dirname(abspath)
+    os.chdir(dname)
