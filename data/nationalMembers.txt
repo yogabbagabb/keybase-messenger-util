@@ -1,0 +1,843 @@
+{
+    "name": "xrus_structure",
+    "members": {
+        "owners": [
+            {
+                "uv": {
+                    "uid": "b49f565fdec68692b4bff784b0d68019",
+                    "eldestSeqno": 1
+                },
+                "username": "walwoods",
+                "fullName": "Paul",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1581523235000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "8d03c10a6c1500e59273609e925cec19",
+                    "eldestSeqno": 1
+                },
+                "username": "kayl",
+                "fullName": "Kay Lowden",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1590003686000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "62ff89332a510fe05f6da0b3d8909819",
+                    "eldestSeqno": 1
+                },
+                "username": "xrcordelia",
+                "fullName": "Steph",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588212461000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "e3dcd4f5d6a3cfea5689d54fb0fbd719",
+                    "eldestSeqno": 1
+                },
+                "username": "ellenmcmanus",
+                "fullName": "Ellen McManus",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588869738000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "e20c254fccae5961d8af3356b5911619",
+                    "eldestSeqno": 1
+                },
+                "username": "1qgl",
+                "fullName": "Quinn Gilmore",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1580668409000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "7c07d387cc45ea407c1356ec9b256c19",
+                    "eldestSeqno": 1
+                },
+                "username": "cmtysyd",
+                "fullName": "Syd",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1589225785000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "2cf0017885adc918ccc99fb50b9a2c19",
+                    "eldestSeqno": 1
+                },
+                "username": "grizzlybear",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1580268296000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "22f97b21c22459f70ab2451592061519",
+                    "eldestSeqno": 1
+                },
+                "username": "mwdenslow",
+                "fullName": "Mike D.",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1581022286000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "6285e2199b30c5ff690150bbd93ed019",
+                    "eldestSeqno": 1
+                },
+                "username": "dcan",
+                "fullName": "Leo",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1589825515000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "5496c1f49e7b5b7ef5eff3311685c319",
+                    "eldestSeqno": 1
+                },
+                "username": "rhianna13",
+                "fullName": "Rhianna",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588869285000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "562d14db1e957c9032797a1ef7120219",
+                    "eldestSeqno": 1
+                },
+                "username": "dystrust",
+                "fullName": "Dave L.",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1582417449000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "2ae57c31c1db02378c70f7c723251119",
+                    "eldestSeqno": 1
+                },
+                "username": "tgreen2584",
+                "fullName": "Trevor",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1582173847000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "e71972b795c6b2bc81aa2f8418303f19",
+                    "eldestSeqno": 1
+                },
+                "username": "wendyinpdx",
+                "fullName": "Wendy Emerson",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1590592145000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "054c2db2b5518265500d1739e22f8d19",
+                    "eldestSeqno": 1
+                },
+                "username": "hobie",
+                "fullName": "Hobart Swan",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1581374282000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "235266733d629a30a8624ea25403cd19",
+                    "eldestSeqno": 1
+                },
+                "username": "tomhoy",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1603419240000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "23dbd58cef4eed3d6f8a36b9e5f41019",
+                    "eldestSeqno": 1
+                },
+                "username": "prince_chesty",
+                "fullName": "ally",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588993412000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "461badd6ce85d89f47b876ce2fc85719",
+                    "eldestSeqno": 1
+                },
+                "username": "shiv123",
+                "fullName": "shiv",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1582078276000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "cf1257a44eca30ef566fac06df3c3219",
+                    "eldestSeqno": 1
+                },
+                "username": "xrlajoshua",
+                "fullName": "Joshua Hirsch",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1580492882000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "2d9f253c28d193c8ecaf099b9ce36819",
+                    "eldestSeqno": 1
+                },
+                "username": "natechurch",
+                "fullName": "Nate Church",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1589011465000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "1227aef689951501f342be9999378419",
+                    "eldestSeqno": 1
+                },
+                "username": "bigbadpupper",
+                "fullName": "Patrick",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1595259291000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "aedf104b8a5490352f0c6aabff849f19",
+                    "eldestSeqno": 1
+                },
+                "username": "trost",
+                "fullName": "Josh",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1581695390000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "e98b7eb971768914707004fb40280119",
+                    "eldestSeqno": 1
+                },
+                "username": "eav1",
+                "fullName": "Andrew Pappin",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1581543384000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "a7913fd71e053ceeffbef48f2fa11919",
+                    "eldestSeqno": 1
+                },
+                "username": "kori_malia",
+                "fullName": "Kori Malia",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1589757794000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "2932f71c569ec7e0a299f39782a8ec19",
+                    "eldestSeqno": 5
+                },
+                "username": "shiv111",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1582007837000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "cc58f0323861d9378bae0e09cbf82919",
+                    "eldestSeqno": 1
+                },
+                "username": "sweetjustice",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1580823567000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "290ac012422cf828bcfdafa0833cbb19",
+                    "eldestSeqno": 1
+                },
+                "username": "lkomarova",
+                "fullName": "Lena Komarova",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588869359000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "545869a14190a899325b4dde7f7f9419",
+                    "eldestSeqno": 1
+                },
+                "username": "queengabe",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1581627102000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "3e51ffebe74421aa4fed05bcda420819",
+                    "eldestSeqno": 1
+                },
+                "username": "pixxr",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588951523000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "c896536308d7adb7968685dd653a9519",
+                    "eldestSeqno": 1
+                },
+                "username": "marco1154",
+                "fullName": "marc rosenthal",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588212461000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "f5b6eb11af67a326b4f0ba445bc3f019",
+                    "eldestSeqno": 1
+                },
+                "username": "sandraxr",
+                "fullName": "SXR",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1580866570000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "5adc23e3d827bbfe4234d73e5fea3519",
+                    "eldestSeqno": 1
+                },
+                "username": "thelearned1",
+                "fullName": "learnèd",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588993442000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "fca2a95a05710cedbce72583dcee3919",
+                    "eldestSeqno": 1
+                },
+                "username": "postrain",
+                "fullName": "Post Rain (Austin TX)",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1582487050000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "0b9a1fbe35da29da5edae20a3ee37f19",
+                    "eldestSeqno": 1
+                },
+                "username": "tobiasw",
+                "fullName": "Tobias Webb",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1580870991000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "ced5738dbe6c2537b5bce5722033a019",
+                    "eldestSeqno": 1
+                },
+                "username": "bhenschen",
+                "fullName": "Bob Henschen",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588890220000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "629fa061dcc301370bbfe6a34de54319",
+                    "eldestSeqno": 1
+                },
+                "username": "redmill06",
+                "fullName": "Dan Bat",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1580873349000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "5e788426e07a2352ed31108412ad0b19",
+                    "eldestSeqno": 1
+                },
+                "username": "carolinasd",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1581023025000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "28033f459b3fe5f71f0e0836320fe619",
+                    "eldestSeqno": 1
+                },
+                "username": "francisferrari",
+                "fullName": "lynn spitaleri handlin",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1590591850000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "b706b77646fc7eaddb365a47988a3819",
+                    "eldestSeqno": 1
+                },
+                "username": "atlantalc",
+                "fullName": "lisa",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1580268212000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "c178d93a93ff5d592433552292f55b19",
+                    "eldestSeqno": 1
+                },
+                "username": "rachel_leigh",
+                "fullName": "Rachel Leigh",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588373846000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "a47fbc668974a7129aaadf41f9b81a19",
+                    "eldestSeqno": 1
+                },
+                "username": "cararistau",
+                "fullName": "Cara Ristau",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1581597386000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "2e2fe59e4d30ff41d2c1f8df399c8c19",
+                    "eldestSeqno": 1
+                },
+                "username": "stevedear",
+                "fullName": "Steve Dear",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1589139876000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "6b6777207fbbb6ab6f591d12a2544b19",
+                    "eldestSeqno": 1
+                },
+                "username": "earthspy",
+                "fullName": "anna w",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588363873000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "f87f01da658fc61fb4113349e231e119",
+                    "eldestSeqno": 1
+                },
+                "username": "newmexin13",
+                "fullName": "Warren L Warren",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1600321570000,
+                "role": 4
+            },
+            {
+                "uv": {
+                    "uid": "0b3b4d0d13be7884b5755e4eac7b7a19",
+                    "eldestSeqno": 1
+                },
+                "username": "ivychi",
+                "fullName": "Ivy",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1588869684000,
+                "role": 4
+            }
+        ],
+        "admins": [
+            {
+                "uv": {
+                    "uid": "f7a4347345f4ddb0fc6de9b3b417f919",
+                    "eldestSeqno": 1
+                },
+                "username": "davidbrendanjohn",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1595625098000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "0b60b87af39986a9e8139cb478104f19",
+                    "eldestSeqno": 1
+                },
+                "username": "jamestk",
+                "fullName": "Tim Anderson",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1593382196000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "4447f53f7ec473cd42040419b6ee0c19",
+                    "eldestSeqno": 1
+                },
+                "username": "themoonisblue",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1589144384000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "2631ce3b018c8dceb1bbd712ce5fa219",
+                    "eldestSeqno": 1
+                },
+                "username": "dom_serino",
+                "fullName": "Dom Serino",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1590335406000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "1621206d91af7657b3506b3a1e23f019",
+                    "eldestSeqno": 1
+                },
+                "username": "jayiris",
+                "fullName": "Cecile Martin",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1589011615000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "845b210848907772266deb86920f3619",
+                    "eldestSeqno": 1
+                },
+                "username": "xxrt1",
+                "fullName": "John DiLorenzo",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1589917262000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "a221231feec9a16727c0559106402819",
+                    "eldestSeqno": 1
+                },
+                "username": "wardo",
+                "fullName": "Ward Ogden",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1589896638000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "5cab5cf20c35cf14c7a9dfedc17bc319",
+                    "eldestSeqno": 1
+                },
+                "username": "ameyam",
+                "fullName": "Ameya",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1590422983000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "be1fc1d45c41c72750f893e0a30b4a19",
+                    "eldestSeqno": 1
+                },
+                "username": "dimeis",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1590620208000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "ad71b4eab71df068c333155649048019",
+                    "eldestSeqno": 1
+                },
+                "username": "mchow",
+                "fullName": "Meg Chow",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1590335406000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "9039bb5c209e2efeb9cf8c560ab2ec19",
+                    "eldestSeqno": 1
+                },
+                "username": "wayofthesunx",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1589917219000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "fc599b01bc891a4ce4a08fe8cff62719",
+                    "eldestSeqno": 4
+                },
+                "username": "carriem213",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1592874818000,
+                "role": 3
+            },
+            {
+                "uv": {
+                    "uid": "33e5580db5325399d2cc9e13269cbc19",
+                    "eldestSeqno": 1
+                },
+                "username": "kelpie",
+                "fullName": "Frank Fortino",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1602126909000,
+                "role": 3
+            }
+        ],
+        "writers": [
+            {
+                "uv": {
+                    "uid": "3f70b10c2d18f2dde3ee74e4440c3619",
+                    "eldestSeqno": 1
+                },
+                "username": "amandalmgraff",
+                "fullName": "Amanda Graff",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1602284243000,
+                "role": 2
+            },
+            {
+                "uv": {
+                    "uid": "c557f1d588da4e56d4c571da9142d919",
+                    "eldestSeqno": 1
+                },
+                "username": "btree",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1603736649000,
+                "role": 2
+            },
+            {
+                "uv": {
+                    "uid": "c836e903e1632e2d4f57181c444dd419",
+                    "eldestSeqno": 1
+                },
+                "username": "margaretstar",
+                "fullName": "Margaret Starbuck",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1608179869000,
+                "role": 2
+            },
+            {
+                "uv": {
+                    "uid": "21ac036d4fd4143645f04d66476dbf19",
+                    "eldestSeqno": 1
+                },
+                "username": "zopadan",
+                "fullName": "Dan R",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1595465347000,
+                "role": 2
+            },
+            {
+                "uv": {
+                    "uid": "7c4bd838637d0009173df5262723d319",
+                    "eldestSeqno": 1
+                },
+                "username": "vicearoy",
+                "fullName": "Chuck Areford",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1596762765000,
+                "role": 2
+            },
+            {
+                "uv": {
+                    "uid": "abd0da178a17f99fd0397fd31e49b619",
+                    "eldestSeqno": 1
+                },
+                "username": "emorgan12",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1589574423000,
+                "role": 2
+            },
+            {
+                "uv": {
+                    "uid": "77586663a9690c398afcbc8b157cff19",
+                    "eldestSeqno": 1
+                },
+                "username": "agalick",
+                "fullName": "Amy Galick",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1591745418000,
+                "role": 2
+            },
+            {
+                "uv": {
+                    "uid": "38bd17e614f1cb3afc110573e3e25919",
+                    "eldestSeqno": 1
+                },
+                "username": "fromtheashes",
+                "fullName": "Aaron Bagheri",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1610117969000,
+                "role": 2
+            },
+            {
+                "uv": {
+                    "uid": "c4ef153ac5b54372fcf850e32c005019",
+                    "eldestSeqno": 1
+                },
+                "username": "christicareyxr",
+                "fullName": "Christi Carey",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1593798154000,
+                "role": 2
+            },
+            {
+                "uv": {
+                    "uid": "857cd4a99cfbfac338731f7930417f19",
+                    "eldestSeqno": 4
+                },
+                "username": "oneearthonelove",
+                "fullName": "Robert Blue",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1613556909000,
+                "role": 2
+            }
+        ],
+        "readers": [
+            {
+                "uv": {
+                    "uid": "6f7f2d52f35cf586d12a21908d729c19",
+                    "eldestSeqno": 1
+                },
+                "username": "jenny_sparkles",
+                "fullName": "",
+                "needsPUK": false,
+                "status": 0,
+                "joinTime": 1603780282000,
+                "role": 1
+            }
+        ],
+        "bots": null,
+        "restrictedBots": null
+    },
+    "keyGeneration": 28,
+    "annotatedActiveInvites": {},
+    "settings": {
+        "open": false,
+        "joinAs": 0
+    },
+    "showcase": {
+        "is_showcased": false,
+        "description": "National Restructuring Working Group reps",
+        "set_by_uid": "0b3b4d0d13be7884b5755e4eac7b7a19",
+        "any_member_showcase": true
+    }
+}
