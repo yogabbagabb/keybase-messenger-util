@@ -6,7 +6,7 @@ The heart of this project is [keybase_util.py](./keybase_util.py). This file pro
 
 
 
-- [process_imp/meeting_reminder.py](process_imp/meeting_reminder.py) shows how to send a message stored in a file to a channel.
+- [process_imp_sg/meeting_reminder.py](process_imp_sg/meeting_reminder.py) shows how to send a message stored in a file to a channel.
 - [add_your_subgroup_report_backs/send_message.py](add_your_subgroup_report_backs/send_message.py) shows how to send a message stored in a file to all members of a team.
 
 - [get_members.py](get_members.py) shows how to store the members of any team you're part of into a file. You can then read from that file to send messages to all members using some methods in [keybase_util.py](keybase_util.py)
