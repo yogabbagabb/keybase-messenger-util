@@ -6,8 +6,14 @@ import random
 
 def send_message_from_file(users, file_name, sleep=0, random_time=0):
     """
-    :param random_time:
-    :param sleep: A time to sleep for
+    :param random_time: A randomized time that gets added to the sleep time, where the randomized_time ranges in [0, random_time]
+    :param sleep: Between every message, a time to sleep for
+
+    Altogether, the time between every message being sent is
+    [sleep, sleep + random_time * R]
+
+    Where R is a random whole number uniformly chosen between 0 and 1.
+
     :param users: A list of users to send a message to
     :param file_name: A file to read the message from. It must be delimited by quotes (e.g. "Hi, I am bob")
     :return: None
@@ -42,7 +48,7 @@ def remove_some_peeps(users_to_remove, removal_message, team_name):
         os.system('keybase team remove-member ' + team_name + ' -f -u' + ' ' + sus)
 
 
-def get_usernames(team_name, file_name, file_dir):
+def put_usernames_from_team_in_file(team_name, file_name, file_dir):
     """
     Get the usernames of all people in a team
     :param team_name: The name of the team
@@ -54,7 +60,7 @@ def get_usernames(team_name, file_name, file_dir):
     print(the_str)
     os.system('keybase team list-members -j ' + team_name + ' > ' + file_dir + '/' + file_name)
     # read file
-    return get_user_names_from_file(file_name)
+    return get_user_names_from_file(file_dir + '/' + file_name)
 
 
 def get_user_names_from_file(file_name):
@@ -76,6 +82,19 @@ def get_user_names_from_file(file_name):
 
 
 def change_to_directory_of_current_file(file_path=__file__):
+    """
+    Change to the directory of a file_path. Useful to use when you
+    need to identify files, relative to a certain path. Identifying
+    those files may be useful to either write or read from the file
+
+
+    In a sense, this is the analog of the cd command
+    on the bash shell or any derivative on it.
+
+    :param file_path: The path to wherever you wish to
+    :return:
+    """
     abspath = os.path.abspath(file_path)
     dname = os.path.dirname(abspath)
+    print(dname)
     os.chdir(dname)

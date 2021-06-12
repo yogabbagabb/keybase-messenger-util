@@ -1,3 +1,9 @@
 *.txt
+!add_your_subgroup_report_backs/agenda_link.txt
+!add_your_subgroup_report_backs/message.txt
 .idea/*
 *.idea/*
+one_time_job/*
+set_up_cron_job.py
+*.iml
+*.xml
