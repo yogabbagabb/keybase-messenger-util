@@ -15,7 +15,8 @@ def send_message_from_file(users, file_name, sleep=0, random_time=0):
     Where R is a random whole number uniformly chosen between 0 and 1.
 
     :param users: A list of users to send a message to
-    :param file_name: A file to read the message from. It must be delimited by quotes (e.g. "Hi, I am bob")
+    :param file_name: A file to read the message from. It must be delimited by quotes (e.g. "Hi, I am bob"). Moreover, any quotes inside the outermost quotes must be escaped.
+
     :return: None
     """
     file = open(file_name, "r")
