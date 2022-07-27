@@ -3,7 +3,10 @@
 !add_your_subgroup_report_backs/message.txt
 .idea/*
 *.idea/*
+one_time_job
 one_time_job/*
+data
+data/*
 set_up_cron_job.py
 *.iml
 *.xml
